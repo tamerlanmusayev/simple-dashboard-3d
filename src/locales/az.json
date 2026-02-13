@@ -1,0 +1,35 @@
+{
+  "projectName": "Simple Dashboard 3D",
+  "languages": {
+    "en": "English",
+    "ru": "Русский",
+    "az": "Azərbaycan"
+  },
+  "designers": "Dizaynerlər",
+  "addNew": "Əlavə et",
+  "goToEditor": "Redaktora keç",
+  "workingHours": "İş saatları",
+  "fullName": "Tam adı",
+  "startTimeBeforeEndTime": "Başlanğıc vaxt bitiş vaxtından əvvəl olmalıdır",
+  "back": "Geri",
+  "designer": "Dizayner",
+  "selectDesigner": "Dizayneri seçin",
+  "selectObjectToEdit": "Redaktə etmək üçün obyekti seçin",
+  "selectDesignerAlert": "Zəhmət olmasa dizayner seçin",
+  "color": "Rəng",
+  "name": "Ad",
+  "size": "Ölcü",
+  "sizeSmall": "Kiçik",
+  "sizeNormal": "Orta",
+  "sizeLarge": "Böyük",
+  "attachedObjects": "Qoşulmuş obyektlər",
+  "noData": "Göstəriləcək məlumat yoxdur",
+  "noPages": "Səhifə mövcud deyil",
+  "errors": {
+    "fullNameRequired": "Tam adı tələb olunur",
+    "fullNameMin": "Tam ad ən azı 3 simvol olmalıdır",
+    "workingHoursRequired": "İş saatları tələb olunur",
+    "workingHoursFormat": "Yanlış format, məsələn, 09:00-17:00",
+    "workingHoursInvalid": "Başlanğıc vaxtı bitiş vaxtından əvvəl olmalıdır və 00:00-23:59 arasında olmalıdır"
+  }
+}

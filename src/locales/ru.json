@@ -1,0 +1,35 @@
+{
+  "projectName": "Simple Dashboard 3D",
+  "languages": {
+    "en": "English",
+    "ru": "Русский",
+    "az": "Azərbaycan"
+  },
+  "designers": "Дизайнеры",
+  "addNew": "Добавить",
+  "goToEditor": "Перейти в редактор",
+  "workingHours": "Рабочие часы",
+  "fullName": "Полное имя",
+  "startTimeBeforeEndTime": "Время начала должно быть раньше времени окончания",
+  "back": "Назад",
+  "designer": "Дизайнер",
+  "selectDesigner": "Выберите дизайнера",
+  "selectObjectToEdit": "Выберите объект для редактирования",
+  "selectDesignerAlert": "Пожалуйста, выберите дизайнера",
+  "color": "Цвет",
+  "name": "Имя",
+  "size": "Размер",
+  "sizeSmall": "Малый",
+  "sizeNormal": "Средний",
+  "sizeLarge": "Большой",
+  "attachedObjects": "Привязанные объекты",
+  "noData": "Нет данных для отображения",
+  "noPages": "Страницы отсутствуют",
+  "errors": {
+    "fullNameRequired": "Имя обязательно",
+    "fullNameMin": "Имя должно быть не менее 3 символов",
+    "workingHoursRequired": "Часы работы обязательны",
+    "workingHoursFormat": "Неверный формат, например, 09:00-17:00",
+    "workingHoursInvalid": "Время начала должно быть раньше конца и между 00:00-23:59"
+  }
+}

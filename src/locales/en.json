@@ -1,0 +1,35 @@
+{
+  "projectName": "Simple Dashboard 3D",
+  "languages": {
+    "en": "English",
+    "ru": "Русский",
+    "az": "Azərbaycan"
+  },
+  "designers": "Designers",
+  "addNew": "Add New",
+  "goToEditor": "Go to Editor",
+  "workingHours": "Working Hours",
+  "fullName": "Full Name",
+  "startTimeBeforeEndTime": "Start time must be earlier than end time",
+  "back": "Back",
+  "designer": "Designer",
+  "selectDesigner": "Select designer",
+  "selectObjectToEdit": "Select object to edit",
+  "selectDesignerAlert": "Please select a designer first",
+  "color": "Color",
+  "name": "Name",
+  "size": "Size",
+  "sizeSmall": "Small",
+  "sizeNormal": "Normal",
+  "sizeLarge": "Large",
+  "attachedObjects": "Attached Objects",
+  "noData": "No data available",
+  "noPages": "No pages",
+  "errors": {
+    "fullNameRequired": "Full name is required",
+    "fullNameMin": "Full name must be at least 3 characters",
+    "workingHoursRequired": "Working hours is required",
+    "workingHoursFormat": "Invalid format, e.g., 09:00-17:00",
+    "workingHoursInvalid": "Start time must be earlier than end time and between 00:00-23:59"
+  }
+}
