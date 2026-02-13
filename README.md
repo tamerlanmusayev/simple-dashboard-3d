@@ -33,7 +33,7 @@ A React app with two pages: **Designers** and **Editor**.
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/tamerlanmusayev/simple-dashboard-3d
 cd simple-dashboard-3d
 npm install
 ```
@@ -44,7 +44,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000
+Open [http://localhost:5173](http://localhost:5173/)
 in your browser.
 
 ## Run tests
